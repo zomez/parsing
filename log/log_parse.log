@@ -1,0 +1,437 @@
+12_04_2020 21_09_00 - root - INFO - Start Parse
+12_04_2020 21_09_00 - root - INFO - Url Parse:
+12_04_2020 21_09_01 - root - INFO - Page 1
+12_04_2020 21_09_01 - root - INFO - Parse all catalog
+12_04_2020 21_09_03 - root - INFO - Parse only catalog
+12_04_2020 21_09_06 - root - INFO - File is exist: ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_09_06 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_09_06 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_09_06 - root - INFO - Сохраняю
+12_04_2020 21_09_06 - root - INFO - Записываю данные
+12_04_2020 21_09_06 - root - INFO - Сохраняю
+12_04_2020 21_09_06 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_09_06 - root - INFO - Page 2
+12_04_2020 21_09_06 - root - INFO - Parse all catalog
+12_04_2020 21_09_07 - root - INFO - Parse only catalog
+12_04_2020 21_09_09 - root - INFO - File is exist: ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_09_09 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_09_09 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_09_09 - root - INFO - Сохраняю
+12_04_2020 21_09_09 - root - INFO - Записываю данные
+12_04_2020 21_09_09 - root - INFO - Сохраняю
+12_04_2020 21_09_09 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_09_09 - root - INFO - Page 3
+12_04_2020 21_09_09 - root - INFO - Parse all catalog
+12_04_2020 21_09_10 - root - INFO - Parse only catalog
+12_04_2020 21_09_12 - root - INFO - File is exist: ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_09_12 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_09_12 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_09_12 - root - INFO - Сохраняю
+12_04_2020 21_09_12 - root - INFO - Записываю данные
+12_04_2020 21_09_12 - root - INFO - Сохраняю
+12_04_2020 21_09_12 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_09_12 - root - INFO - Page 4
+12_04_2020 21_09_12 - root - INFO - Parse all catalog
+12_04_2020 21_09_13 - root - INFO - Parse only catalog
+12_04_2020 21_09_16 - root - INFO - File is exist: ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_09_16 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_09_16 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_09_16 - root - INFO - Сохраняю
+12_04_2020 21_09_16 - root - INFO - Записываю данные
+12_04_2020 21_09_16 - root - INFO - Сохраняю
+12_04_2020 21_09_16 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_09_16 - root - INFO - Page 5
+12_04_2020 21_09_16 - root - INFO - Parse all catalog
+12_04_2020 21_09_17 - root - INFO - Parse only catalog
+12_04_2020 21_09_20 - root - INFO - File is exist: ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_09_20 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_09_20 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_09_20 - root - INFO - Сохраняю
+12_04_2020 21_09_20 - root - INFO - Записываю данные
+12_04_2020 21_09_20 - root - INFO - Сохраняю
+12_04_2020 21_09_20 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_09_20 - root - INFO - Page 6
+12_04_2020 21_09_20 - root - INFO - Parse all catalog
+12_04_2020 21_09_21 - root - INFO - Parse only catalog
+12_04_2020 21_09_26 - root - INFO - File is exist: ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_09_26 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_09_26 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_09_26 - root - INFO - Сохраняю
+12_04_2020 21_09_26 - root - INFO - Записываю данные
+12_04_2020 21_09_26 - root - INFO - Сохраняю
+12_04_2020 21_09_26 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_09_26 - root - INFO - Page 7
+12_04_2020 21_09_26 - root - INFO - Parse all catalog
+12_04_2020 21_09_27 - root - INFO - Parse only catalog
+12_04_2020 21_09_32 - root - INFO - File is exist: ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_09_32 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_09_32 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_09_32 - root - INFO - Сохраняю
+12_04_2020 21_09_32 - root - INFO - Записываю данные
+12_04_2020 21_09_32 - root - INFO - Сохраняю
+12_04_2020 21_09_32 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_09_32 - root - INFO - Page 8
+12_04_2020 21_09_32 - root - INFO - Parse all catalog
+12_04_2020 21_09_33 - root - INFO - Parse only catalog
+12_04_2020 21_09_37 - root - INFO - File is exist: ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_09_37 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_09_37 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_09_37 - root - INFO - Сохраняю
+12_04_2020 21_09_37 - root - INFO - Записываю данные
+12_04_2020 21_09_37 - root - INFO - Сохраняю
+12_04_2020 21_09_37 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_09_37 - root - INFO - Page 9
+12_04_2020 21_09_37 - root - INFO - Parse all catalog
+12_04_2020 21_09_38 - root - INFO - Parse only catalog
+12_04_2020 21_09_44 - root - INFO - File is exist: ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_09_44 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_09_44 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_09_44 - root - INFO - Сохраняю
+12_04_2020 21_09_44 - root - INFO - Записываю данные
+12_04_2020 21_09_44 - root - INFO - Сохраняю
+12_04_2020 21_09_44 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_09_44 - root - INFO - Page 10
+12_04_2020 21_09_44 - root - INFO - Parse all catalog
+12_04_2020 21_09_45 - root - INFO - Parse only catalog
+12_04_2020 21_09_52 - root - INFO - File is exist: ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_09_52 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_09_52 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_09_52 - root - INFO - Сохраняю
+12_04_2020 21_09_52 - root - INFO - Записываю данные
+12_04_2020 21_09_52 - root - INFO - Сохраняю
+12_04_2020 21_09_52 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_09_52 - root - INFO - Page 11
+12_04_2020 21_09_52 - root - INFO - Parse all catalog
+12_04_2020 21_09_53 - root - INFO - Parse only catalog
+12_04_2020 21_09_57 - root - INFO - File is exist: ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_09_57 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_09_57 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_09_57 - root - INFO - Сохраняю
+12_04_2020 21_09_57 - root - INFO - Записываю данные
+12_04_2020 21_09_57 - root - INFO - Сохраняю
+12_04_2020 21_09_57 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_09_57 - root - INFO - Page 12
+12_04_2020 21_09_57 - root - INFO - Parse all catalog
+12_04_2020 21_09_58 - root - INFO - Parse only catalog
+12_04_2020 21_10_04 - root - INFO - File is exist: ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_10_04 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_10_04 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_10_04 - root - INFO - Сохраняю
+12_04_2020 21_10_04 - root - INFO - Записываю данные
+12_04_2020 21_10_04 - root - INFO - Сохраняю
+12_04_2020 21_10_04 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_10_04 - root - INFO - Page 13
+12_04_2020 21_10_04 - root - INFO - Parse all catalog
+12_04_2020 21_10_05 - root - INFO - Parse only catalog
+12_04_2020 21_10_12 - root - INFO - File is exist: ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_10_12 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_10_12 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_10_12 - root - INFO - Сохраняю
+12_04_2020 21_10_12 - root - INFO - Записываю данные
+12_04_2020 21_10_12 - root - INFO - Сохраняю
+12_04_2020 21_10_12 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_10_12 - root - INFO - Page 14
+12_04_2020 21_10_12 - root - INFO - Parse all catalog
+12_04_2020 21_10_13 - root - INFO - Parse only catalog
+12_04_2020 21_10_20 - root - INFO - File is exist: ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_10_20 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_10_20 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_10_20 - root - INFO - Сохраняю
+12_04_2020 21_10_20 - root - INFO - Записываю данные
+12_04_2020 21_10_20 - root - INFO - Сохраняю
+12_04_2020 21_10_20 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_10_20 - root - INFO - Page 15
+12_04_2020 21_10_20 - root - INFO - Parse all catalog
+12_04_2020 21_10_21 - root - INFO - Parse only catalog
+12_04_2020 21_10_28 - root - INFO - File is exist: ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_10_28 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_10_28 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_10_28 - root - INFO - Сохраняю
+12_04_2020 21_10_28 - root - INFO - Записываю данные
+12_04_2020 21_10_28 - root - INFO - Сохраняю
+12_04_2020 21_10_29 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_10_29 - root - INFO - Page 16
+12_04_2020 21_10_29 - root - INFO - Parse all catalog
+12_04_2020 21_10_30 - root - INFO - Parse only catalog
+12_04_2020 21_10_35 - root - INFO - File is exist: ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_10_35 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_10_35 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_10_35 - root - INFO - Сохраняю
+12_04_2020 21_10_35 - root - INFO - Записываю данные
+12_04_2020 21_10_35 - root - INFO - Сохраняю
+12_04_2020 21_10_35 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_10_35 - root - INFO - Page 17
+12_04_2020 21_10_35 - root - INFO - Parse all catalog
+12_04_2020 21_10_36 - root - INFO - Parse only catalog
+12_04_2020 21_10_39 - root - INFO - File is exist: ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_10_39 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_10_39 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_10_39 - root - INFO - Сохраняю
+12_04_2020 21_10_39 - root - INFO - Записываю данные
+12_04_2020 21_10_39 - root - INFO - Сохраняю
+12_04_2020 21_10_39 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_10_39 - root - INFO - Page 18
+12_04_2020 21_10_39 - root - INFO - Parse all catalog
+12_04_2020 21_10_40 - root - INFO - Parse only catalog
+12_04_2020 21_10_46 - root - INFO - File is exist: ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_10_46 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_10_46 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_10_46 - root - INFO - Сохраняю
+12_04_2020 21_10_46 - root - INFO - Записываю данные
+12_04_2020 21_10_46 - root - INFO - Сохраняю
+12_04_2020 21_10_46 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_10_46 - root - INFO - Page 19
+12_04_2020 21_10_46 - root - INFO - Parse all catalog
+12_04_2020 21_10_47 - root - INFO - Parse only catalog
+12_04_2020 21_10_52 - root - INFO - File is exist: ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_10_52 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_10_52 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_10_52 - root - INFO - Сохраняю
+12_04_2020 21_10_52 - root - INFO - Записываю данные
+12_04_2020 21_10_52 - root - INFO - Сохраняю
+12_04_2020 21_10_53 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_10_53 - root - INFO - Page 20
+12_04_2020 21_10_53 - root - INFO - Parse all catalog
+12_04_2020 21_10_54 - root - INFO - Parse only catalog
+12_04_2020 21_11_01 - root - INFO - File is exist: ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_11_01 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_11_01 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_11_01 - root - INFO - Сохраняю
+12_04_2020 21_11_01 - root - INFO - Записываю данные
+12_04_2020 21_11_01 - root - INFO - Сохраняю
+12_04_2020 21_11_01 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_11_01 - root - INFO - Page 21
+12_04_2020 21_11_01 - root - INFO - Parse all catalog
+12_04_2020 21_11_02 - root - INFO - Parse only catalog
+12_04_2020 21_11_08 - root - INFO - File is exist: ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_11_08 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_11_08 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_11_08 - root - INFO - Сохраняю
+12_04_2020 21_11_08 - root - INFO - Записываю данные
+12_04_2020 21_11_08 - root - INFO - Сохраняю
+12_04_2020 21_11_08 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_11_08 - root - INFO - Page 22
+12_04_2020 21_11_08 - root - INFO - Parse all catalog
+12_04_2020 21_11_09 - root - INFO - Parse only catalog
+12_04_2020 21_11_11 - root - INFO - Message: Unable to locate element: .b-pagination__next
+
+12_04_2020 21_11_11 - root - INFO - End Parse
+12_04_2020 21_16_26 - root - INFO - Start Parse
+12_04_2020 21_16_26 - root - INFO - Url Parse:
+12_04_2020 21_16_27 - root - INFO - Page 1
+12_04_2020 21_16_27 - root - INFO - Parse all catalog
+12_04_2020 21_16_28 - root - INFO - Parse only catalog
+12_04_2020 21_16_31 - root - INFO - Create file: old\ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_16_31 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_16_31 - root - INFO - Создаю лист: Пятёрочка
+12_04_2020 21_16_31 - root - INFO - Сохраняю
+12_04_2020 21_16_31 - root - INFO - [Errno 2] No such file or directory: 'old\\ParsingSite(Eda)_12_04_2020.xlsx'
+12_04_2020 21_16_31 - root - INFO - End Parse
+12_04_2020 21_17_53 - root - INFO - Start Parse
+12_04_2020 21_17_53 - root - INFO - Url Parse:
+12_04_2020 21_17_53 - root - INFO - Page 1
+12_04_2020 21_17_53 - root - INFO - Parse all catalog
+12_04_2020 21_17_55 - root - INFO - Parse only catalog
+12_04_2020 21_17_58 - root - INFO - Create file: out\ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_17_58 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_17_58 - root - INFO - Создаю лист: Пятёрочка
+12_04_2020 21_17_58 - root - INFO - Сохраняю
+12_04_2020 21_17_58 - root - INFO - Записываю данные
+12_04_2020 21_17_58 - root - INFO - Сохраняю
+12_04_2020 21_17_58 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_17_58 - root - INFO - Page 2
+12_04_2020 21_17_58 - root - INFO - Parse all catalog
+12_04_2020 21_17_59 - root - INFO - Parse only catalog
+12_04_2020 21_18_01 - root - INFO - File is exist: out\ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_18_01 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_18_01 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_18_01 - root - INFO - Сохраняю
+12_04_2020 21_18_01 - root - INFO - Записываю данные
+12_04_2020 21_18_01 - root - INFO - Сохраняю
+12_04_2020 21_18_01 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_18_01 - root - INFO - Page 3
+12_04_2020 21_18_01 - root - INFO - Parse all catalog
+12_04_2020 21_18_02 - root - INFO - Parse only catalog
+12_04_2020 21_18_04 - root - INFO - File is exist: out\ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_18_04 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_18_04 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_18_04 - root - INFO - Сохраняю
+12_04_2020 21_18_04 - root - INFO - Записываю данные
+12_04_2020 21_18_04 - root - INFO - Сохраняю
+12_04_2020 21_18_04 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_18_04 - root - INFO - Page 4
+12_04_2020 21_18_04 - root - INFO - Parse all catalog
+12_04_2020 21_18_05 - root - INFO - Parse only catalog
+12_04_2020 21_18_09 - root - INFO - File is exist: out\ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_18_09 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_18_09 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_18_09 - root - INFO - Сохраняю
+12_04_2020 21_18_09 - root - INFO - Записываю данные
+12_04_2020 21_18_09 - root - INFO - Сохраняю
+12_04_2020 21_18_09 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_18_09 - root - INFO - Page 5
+12_04_2020 21_18_09 - root - INFO - Parse all catalog
+12_04_2020 21_18_10 - root - INFO - Parse only catalog
+12_04_2020 21_18_13 - root - INFO - File is exist: out\ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_18_13 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_18_13 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_18_13 - root - INFO - Сохраняю
+12_04_2020 21_18_13 - root - INFO - Записываю данные
+12_04_2020 21_18_13 - root - INFO - Сохраняю
+12_04_2020 21_18_13 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_18_13 - root - INFO - Page 6
+12_04_2020 21_18_13 - root - INFO - Parse all catalog
+12_04_2020 21_18_14 - root - INFO - Parse only catalog
+12_04_2020 21_18_21 - root - INFO - File is exist: out\ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_18_21 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_18_21 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_18_21 - root - INFO - Сохраняю
+12_04_2020 21_18_21 - root - INFO - Записываю данные
+12_04_2020 21_18_21 - root - INFO - Сохраняю
+12_04_2020 21_18_21 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_18_21 - root - INFO - Page 7
+12_04_2020 21_18_21 - root - INFO - Parse all catalog
+12_04_2020 21_18_22 - root - INFO - Parse only catalog
+12_04_2020 21_18_28 - root - INFO - File is exist: out\ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_18_28 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_18_28 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_18_28 - root - INFO - Сохраняю
+12_04_2020 21_18_28 - root - INFO - Записываю данные
+12_04_2020 21_18_28 - root - INFO - Сохраняю
+12_04_2020 21_18_28 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_18_28 - root - INFO - Page 8
+12_04_2020 21_18_28 - root - INFO - Parse all catalog
+12_04_2020 21_18_29 - root - INFO - Parse only catalog
+12_04_2020 21_18_34 - root - INFO - File is exist: out\ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_18_34 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_18_34 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_18_34 - root - INFO - Сохраняю
+12_04_2020 21_18_34 - root - INFO - Записываю данные
+12_04_2020 21_18_34 - root - INFO - Сохраняю
+12_04_2020 21_18_34 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_18_34 - root - INFO - Page 9
+12_04_2020 21_18_34 - root - INFO - Parse all catalog
+12_04_2020 21_18_35 - root - INFO - Parse only catalog
+12_04_2020 21_18_39 - root - INFO - File is exist: out\ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_18_39 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_18_39 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_18_39 - root - INFO - Сохраняю
+12_04_2020 21_18_39 - root - INFO - Записываю данные
+12_04_2020 21_18_39 - root - INFO - Сохраняю
+12_04_2020 21_18_39 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_18_39 - root - INFO - Page 10
+12_04_2020 21_18_39 - root - INFO - Parse all catalog
+12_04_2020 21_18_40 - root - INFO - Parse only catalog
+12_04_2020 21_18_46 - root - INFO - File is exist: out\ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_18_46 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_18_46 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_18_46 - root - INFO - Сохраняю
+12_04_2020 21_18_46 - root - INFO - Записываю данные
+12_04_2020 21_18_46 - root - INFO - Сохраняю
+12_04_2020 21_18_46 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_18_46 - root - INFO - Page 11
+12_04_2020 21_18_46 - root - INFO - Parse all catalog
+12_04_2020 21_18_47 - root - INFO - Parse only catalog
+12_04_2020 21_18_50 - root - INFO - File is exist: out\ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_18_50 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_18_50 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_18_50 - root - INFO - Сохраняю
+12_04_2020 21_18_50 - root - INFO - Записываю данные
+12_04_2020 21_18_50 - root - INFO - Сохраняю
+12_04_2020 21_18_50 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_18_50 - root - INFO - Page 12
+12_04_2020 21_18_50 - root - INFO - Parse all catalog
+12_04_2020 21_18_51 - root - INFO - Parse only catalog
+12_04_2020 21_18_58 - root - INFO - File is exist: out\ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_18_58 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_18_58 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_18_58 - root - INFO - Сохраняю
+12_04_2020 21_18_58 - root - INFO - Записываю данные
+12_04_2020 21_18_58 - root - INFO - Сохраняю
+12_04_2020 21_18_58 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_18_58 - root - INFO - Page 13
+12_04_2020 21_18_58 - root - INFO - Parse all catalog
+12_04_2020 21_18_59 - root - INFO - Parse only catalog
+12_04_2020 21_19_04 - root - INFO - File is exist: out\ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_19_04 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_19_04 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_19_04 - root - INFO - Сохраняю
+12_04_2020 21_19_04 - root - INFO - Записываю данные
+12_04_2020 21_19_04 - root - INFO - Сохраняю
+12_04_2020 21_19_04 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_19_04 - root - INFO - Page 14
+12_04_2020 21_19_04 - root - INFO - Parse all catalog
+12_04_2020 21_19_05 - root - INFO - Parse only catalog
+12_04_2020 21_19_10 - root - INFO - File is exist: out\ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_19_10 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_19_10 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_19_10 - root - INFO - Сохраняю
+12_04_2020 21_19_10 - root - INFO - Записываю данные
+12_04_2020 21_19_10 - root - INFO - Сохраняю
+12_04_2020 21_19_10 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_19_10 - root - INFO - Page 15
+12_04_2020 21_19_10 - root - INFO - Parse all catalog
+12_04_2020 21_19_11 - root - INFO - Parse only catalog
+12_04_2020 21_19_15 - root - INFO - File is exist: out\ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_19_15 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_19_15 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_19_15 - root - INFO - Сохраняю
+12_04_2020 21_19_15 - root - INFO - Записываю данные
+12_04_2020 21_19_15 - root - INFO - Сохраняю
+12_04_2020 21_19_15 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_19_15 - root - INFO - Page 16
+12_04_2020 21_19_15 - root - INFO - Parse all catalog
+12_04_2020 21_19_16 - root - INFO - Parse only catalog
+12_04_2020 21_19_24 - root - INFO - File is exist: out\ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_19_24 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_19_24 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_19_24 - root - INFO - Сохраняю
+12_04_2020 21_19_24 - root - INFO - Записываю данные
+12_04_2020 21_19_24 - root - INFO - Сохраняю
+12_04_2020 21_19_24 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_19_24 - root - INFO - Page 17
+12_04_2020 21_19_24 - root - INFO - Parse all catalog
+12_04_2020 21_19_25 - root - INFO - Parse only catalog
+12_04_2020 21_19_31 - root - INFO - File is exist: out\ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_19_31 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_19_31 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_19_31 - root - INFO - Сохраняю
+12_04_2020 21_19_31 - root - INFO - Записываю данные
+12_04_2020 21_19_31 - root - INFO - Сохраняю
+12_04_2020 21_19_31 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_19_31 - root - INFO - Page 18
+12_04_2020 21_19_31 - root - INFO - Parse all catalog
+12_04_2020 21_19_32 - root - INFO - Parse only catalog
+12_04_2020 21_19_37 - root - INFO - File is exist: out\ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_19_37 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_19_37 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_19_37 - root - INFO - Сохраняю
+12_04_2020 21_19_37 - root - INFO - Записываю данные
+12_04_2020 21_19_37 - root - INFO - Сохраняю
+12_04_2020 21_19_37 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_19_37 - root - INFO - Page 19
+12_04_2020 21_19_37 - root - INFO - Parse all catalog
+12_04_2020 21_19_38 - root - INFO - Parse only catalog
+12_04_2020 21_19_46 - root - INFO - File is exist: out\ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_19_46 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_19_46 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_19_46 - root - INFO - Сохраняю
+12_04_2020 21_19_46 - root - INFO - Записываю данные
+12_04_2020 21_19_46 - root - INFO - Сохраняю
+12_04_2020 21_19_46 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_19_46 - root - INFO - Page 20
+12_04_2020 21_19_46 - root - INFO - Parse all catalog
+12_04_2020 21_19_47 - root - INFO - Parse only catalog
+12_04_2020 21_19_52 - root - INFO - File is exist: out\ParsingSite(Eda)_12_04_2020.xlsx
+12_04_2020 21_19_52 - root - INFO - Получаем магазины и записываем в массив с названиями листов
+12_04_2020 21_19_52 - root - INFO - Лист уже есть: Пятёрочка
+12_04_2020 21_19_52 - root - INFO - Сохраняю
+12_04_2020 21_19_52 - root - INFO - Записываю данные
+12_04_2020 21_19_52 - root - INFO - Сохраняю
+12_04_2020 21_19_52 - root - INFO - Send data to sort and NULL massive
+12_04_2020 21_19_52 - root - INFO - Page 21
+12_04_2020 21_19_52 - root - INFO - Parse all catalog
+12_04_2020 21_19_53 - root - INFO - Parse only catalog
+12_04_2020 21_19_55 - root - INFO - Message: Unable to locate element: .b-pagination__next
+
+12_04_2020 21_19_55 - root - INFO - End Parse
